@@ -55,7 +55,7 @@ a{
     width:100%;
 }
 #bb-b{
-    border:1px #EEEEEE solid;      /*设置边框 颜色 实线*/
+        border:1px #EEEEEE solid;      /*设置边框 颜色 实线*/
     height:36px;                   /*高度调整*/
     width:130px;                   /*宽度调整*/
     font-size:12px;                /*字体尺寸*/
